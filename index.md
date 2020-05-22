@@ -1,8 +1,11 @@
 # Readers Are Listening 
 
 Jentery Sayers   
-English 506 + Cultural, Social, and Political Thought 500/600   
+English 506 + Cultural, Social, and Political Thought 500/600  
+Fall 2020
 University of Victoria   
+
+## Description of the Seminar
 
 “Readers are listening.” We'll treat that sentence, including its many implications, as a refrain for this seminar. 
 
