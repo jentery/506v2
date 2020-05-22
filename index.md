@@ -4,6 +4,7 @@ Jentery Sayers
 English 506 + Cultural, Social, and Political Thought 500/600  
 Fall 2020    
 University of Victoria   
+Online Seminar
 
 ## Description of the Seminar
 
