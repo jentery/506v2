@@ -1,4 +1,4 @@
-# READERS ARE LISTENING 
+# Readers Are Listening 
 
 Jentery Sayers   
 English 506 + Cultural, Social, and Political Thought 500/600   
