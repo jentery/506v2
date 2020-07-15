@@ -52,7 +52,7 @@ October 12th is Thanksgiving Monday.
 * Study: Recordings of Brion Gysin and William S. Burroughs's "Recalling All Active Agents" (1960), Laurie Anderson's *O Superman* (1981), Alvin Lucier's *I Am Sitting in a Room* (1969-70), and Steve Reich's *Come Out* (1966)
 * Assignment: Submit Your Audio Portfolio (introduction plus three recordings, each with context and commentary)
 
-## Week 7 (October 27th): Listening inside Acoustic Spheres
+## Week 7 (October 27th): Listening inside Spheres
 
 * Zoom Class: "Serialized Drama" + Discussion Forum 
 * Study: *Within the Wires* (Season One, "Relaxation Cassettes") (2016), by Jeffrey Cranor, Janina Matthewson, and Mary Epworth
@@ -70,7 +70,7 @@ Please note that Saturday, October 31st is the last day for withdrawing from fir
 
 No Zoom class or assignments. It's reading break from November 9th through November 11th, and Wednesday, November 11th is Remembrance Day.
 
-## Week 10 (November 17th): Listening Against the Grain
+## Week 10 (November 17th): Listening against the Grain
 
 * Zoom Class: "Voice-over" + Discussion Forum 
 * Study: Performances by Regina King (2005), Edward Norton (1999), Christina Ricci (1998), and Sissy Spacek (1973)
