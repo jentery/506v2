@@ -8,7 +8,7 @@ Readers are listening because, as a [2018 BookNet Canada report](https://www.boo
 
 You’ll have the opportunity to test various approaches to listening by studying fiction (mostly Anglo-American) from the 20th and 21st centuries. To invite an array of expertise on the topic, I’ve selected a range of works that not only engage themes of sound and listening (as content) but also experiment with audio formats, such as radio plays, talking books, cut-ups, recorded readings, serialized drama, voice-over narration, and first-person videogames, where listeners cannot see the “source” of a sound. Each week, we’ll examine a work or two with a particular theme or technique in mind. Themes will include listening to writers read, listening to narrators speak, listening for meaning, listening for effects, listening with others, listening in place, listening against the grain, listening inside acoustic spheres, and listening with machines. Across them, we’ll consider the aesthetics and sensory politics of how readers listen to fiction and how fiction is composed to be heard. I’ll also encourage you to try writing for readers who are listening by asking you to develop a portfolio of audio work comprised of brief exercises that culminate in a podcast episode about a seminar topic of your choice. (You can use a mobile phone or computer to record, and free audio software to edit. If you do not have access to these technologies, then the portfolio and episode can be written without producing or editing audio.)
 
-## Aim of the Portfolio
+## Aims of the Portfolio
 
 The portfolio is intended to help you not only experiment with audio as a way to engage fiction but also gradually develop an episode for a podcast of your design.  
 
