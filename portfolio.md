@@ -18,9 +18,9 @@ Pick a podcast to follow for the next ten weeks and also practice recording stuf
 
 ## Step 3 (Sept. 29th): Record Your First Take 
 
-Engage an issue raised during the first three weeks of seminar by recording yourself talking about it. This is an opportunity to experiment with your voice as a medium and to determine how (or to what degree) you want to rely on a script when recording. 
+Engage an issue raised during the first three weeks of seminar by recording yourself talking about it. This is an opportunity for you to experiment with your voice(s) as a medium and to determine how (or to what degree) you want to rely on a script when recording. 
 
-Specs for the audio file: 5-8 minutes of you talking plus a one- or two-sentence description of the recording and a list of works mentioned in it  
+Specs for the audio file: 5-8 minutes of you talking, plus a one- or two-sentence description of the recording and a list of works mentioned in it  
 
 ## Step 4 (Oct. 6th): Describe Your Podcast 
 
