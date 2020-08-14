@@ -24,7 +24,7 @@ Complete a technology survey to let me know your needs and preferences, includin
 
 Pick a podcast (such as SpokenWeb, Sounding Out!, or Phantom Power) to follow for the next ten weeks and also practice recording stuff with Kaltura, Audacity, or whatever software works for you.  
 
-This week, we'll also read a collection of brief introductions to listening from a sound studies angle. Authors include Tara Rodgers, Jonathan Sterne, Dylan Robinson, Michel Chion, Pauline Oliveros, Michele Hilmes, Tom Rice, and Mara Mills.  
+This week, we'll read a collection of brief introductions to listening from a sound studies angle. Authors include Tara Rodgers, Jonathan Sterne, Dylan Robinson, Michel Chion, Pauline Oliveros, Michele Hilmes, Tom Rice, and Mara Mills.  
 
 ## Step 3 (Sept. 29th): Record Your First Take 
 
