@@ -52,7 +52,7 @@ Step away from the seminar and your podcast for a bit.
 
 ## Step 10 (Nov. 17th): Record an Analysis of a Sound Object or Soundscape 
 
-Engage an issue raised during the first ten weeks of seminar by recording your analysis of a sound object (such as an effect) or a soundscape of your choice from what we've studied. This is your opportunity to engage audio beyond semantic listening. Y
+Engage an issue raised during the first ten weeks of seminar by recording your analysis of a sound object (such as an effect) or a soundscape of your choice from what we've studied. This is your opportunity to engage audio beyond semantic listening. 
 
 Specs for your audio file: 5-10 minutes of you analyzing audio, plus a one- or two-sentence description of the recording and a list of works mentioned in it 
 
