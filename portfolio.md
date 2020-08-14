@@ -2,7 +2,7 @@ This is a draft scaffold for the audio portfolio in English 506, "Readers Are Li
 
 ## The Aim
 
-The portfolio is intended to help you not only experiment with audio as a way to engage fiction but also gradually develop an episode in a podcast of your design.  
+The portfolio is intended to help you not only experiment with audio as a way to engage fiction but also gradually develop an episode for a podcast of your design.  
 
 To keep it social, the portfolio will be accompanied by weekly discussion forums about what we're studying in the seminar. 
 
