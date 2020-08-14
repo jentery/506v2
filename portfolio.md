@@ -4,9 +4,9 @@ This is a draft scaffold for the audio portfolio in English 506, "Readers Are Li
 
 The portfolio is intended to help you not only experiment with audio as a way to engage fiction but also gradually develop an episode for a podcast of your design.  
 
-To keep it social, the portfolio will be accompanied by weekly discussion forums about what we're studying in the seminar. 
+To keep it social, the portfolio will be accompanied by weekly discussion forums about what we're studying in the seminar. Those forums are not mentioned below but should be assumed.  
 
-Don't worry too much about post-production or the audio quality here. Focus on the content and not the tech for now. 
+Don't worry too much about post-production or audio quality here. Focus on the content and not the tech for now. This is not an audio engineering course. 
 
 ## Step 1 (Sept. 15th): Technology Survey 
 
