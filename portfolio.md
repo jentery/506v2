@@ -36,13 +36,13 @@ This week, we'll listen to *The Bluest Eye*, by (and read by) Toni Morrison. I'l
 
 ## Step 4 (Oct. 6th): Describe Your Podcast 
 
-Draft a description (250 words) of a podcast you might produce based on material from this seminar, including your recording from last week. You might want to scan this entire document to see if there's something scheduled that may especially appeal to your own research. Your description should include a title, theme, interests, topic(s) you'll address, your intended audience, and, if you wish, a few words about your style, or your podcast's style. You might also want to compare it with other podcasts, especially similar ones. 
+Draft a description (250 words) of a podcast you might produce based on material from this seminar, including your recording from last week. You might want to scan this entire document (Steps 1 - 13) to see if there's something scheduled that may especially appeal to your own research. Your podcast description should include a title, theme, interests, topic(s) you'll address, your intended audience, and, if you wish, a few words about your style or approach. You might also want to compare it with other podcasts, especially similar ones. 
 
-This week, we'll continue listen to *The Bluest Eye* (1970), by (and read by) Toni Morrison. I'll point you to related material that may be of interest.   
+This week, we'll continue listening to *The Bluest Eye* (1970), by (and read by) Toni Morrison. I'll point you to related material that may be of interest.   
 
 ## Step 5 (Oct. 13th): Record Some Dialogue 
 
-Engage an issue raised during the first five weeks of seminar by recording dialogue (or banter) with someone else in seminar. This should be an opportunity to integrate conversations and other perspectives into your proposed podcast.
+Engage an issue raised during the first five weeks of seminar by recording dialogue (or banter) with someone else in the seminar. This should be an opportunity to integrate conversations and other perspectives into your proposed podcast. This recording will count "double": as your recording for the week and theirs. 
 
 Specs for your audio file: 10-15 minutes of you talking with someone else, plus a one- or two-sentence description of the recording and a list of works mentioned in it 
 
@@ -60,7 +60,7 @@ Engage an issue raised during the first seven weeks of seminar by recording your
 
 Specs for your audio file: 5-10 minutes of you analyzing audio, plus a one- or two-sentence description of the recording and a list of works mentioned in it  
 
-This week, we'll listen to recordings of Brion Gysin and William S. Burroughs's "Recalling All Active Agents" (1960), Laurie Anderson's *O Superman* (1981), Alvin Lucier's *I Am Sitting in a Room* (1969-70), Steve Reich's *Come Out* (1966), Delia Derbyshire's "Ziwzih Ziwzih OO-OO-OO" (1967), dub by King Tubby (1960s and '70s), and DJ Kool Herc's breakbeats (1970s). I'll point you to related material that may be of interest.   
+This week, we'll listen to recordings of Brion Gysin and William S. Burroughs's "Recalling All Active Agents" (1960), Laurie Anderson's *O Superman* (1981), Alvin Lucier's *I Am Sitting in a Room* (1969-70), Steve Reich's *Come Out* (1966), Delia Derbyshire's "Ziwzih Ziwzih OO-OO-OO" (1967), dub by King Tubby (1960s and '70s), and DJ Kool Herc's breakbeats (1970s and '80s). I'll point you to related material that may be of interest.   
 
 ## Step 8 (Nov. 3rd): Let's Bib 
 
@@ -88,12 +88,12 @@ This week, we'll watch or play either Giant Sparrow's *What Remains of Edith Fin
 
 ## Step 12 (Dec. 1st): Record Part of Your First Episode 
 
-Engage an issue raised during the seminar by recording part of your podcast's first episode. This is your opportunity to select critical approaches that work best for you and test them.  
+Engage an issue raised during the seminar by recording part of your podcast's first episode. This is your opportunity to select critical approaches that work best for you and test them. You are also more than welcome to engage primary material beyond what we've studied; however, I recommend focusing on the role of audio and listening in one or two of the following formats: radio plays, talking books (or audiobooks), cut-ups, recorded readings, serialized drama (podcasts), voice-over narration, or first-person videogames.
 
-Specs for your audio file: 3-8 minutes of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode and a list of all works mentioned in it 
+Specs for your audio file: 3-8 minutes of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode and a list of works mentioned in it 
 
-## Step 13 (Dec. 15th): Record Your First Episode 
+## Step 13 (Dec. 15th): Record, Edit, and Polish Yout First Episode 
 
-Engage an issue raised during the seminar by recording your podcast's first episode. This is your opportunity to synthesize what you've learned and put your own spin on it. 
+Engage an issue raised during the seminar by recording, editing, and polishing your podcast's first episode. This is your opportunity to synthesize what you've learned and put your own spin on it, with attention to primary materials of your choice.  
 
-Specs for your audio file: 12-20 minutes of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode, a transcript for it, and a list of all works mentioned in it; be sure to introduce yourself and your podcast and to include verbal acknowledgments at the end; intro music, sound effects, and ambient sounds are optional; also avoid overdoing it :) 
+Specs for your audio file: 12-20 minutes of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode, a transcript for it, and a list of all works mentioned in it; be sure to introduce yourself and your podcast and to include verbal acknowledgments at the end; intro music, sound effects, and ambient sounds are optional; avoid overdoing it, tho :) 
