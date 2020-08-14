@@ -30,7 +30,7 @@ This week, we'll read a collection of brief introductions to listening from a so
 
 Engage an issue raised during the first three weeks of seminar by recording yourself talking about it. This is an opportunity for you to experiment with your voice(s) as a medium and to determine how (or to what degree) you want to rely on a script when recording. 
 
-Specs for the audio file: 5-8 minutes of you talking, plus a one- or two-sentence description of the recording and a list of works mentioned in it  
+Specs for the audio file: 5-8 minutes of you talking, plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it  
 
 This week, we'll listen to *The Bluest Eye*, by (and read by) Toni Morrison. I'll point you to related material that may be of interest. 
 
@@ -44,7 +44,7 @@ This week, we'll continue listening to *The Bluest Eye* (1970), by (and read by)
 
 Engage an issue raised during the first five weeks of seminar by recording dialogue (or banter) with someone else in the seminar. This should be an opportunity to integrate conversations and other perspectives into your proposed podcast. This recording will count "double": as your recording for the week and theirs. 
 
-Specs for your audio file: 10-15 minutes of you talking with someone else, plus a one- or two-sentence description of the recording and a list of works mentioned in it 
+Specs for your audio file: 10-15 minutes of you talking with someone else, plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it 
 
 This week, we'll listen to recordings of Edwidge Danticat reading (2013) Jamaica Kincaid’s "Girl" (1978) and "Wingless" (1979) and Joyce Carol Oates reading (2009) Eudora Welty’s “Where Is the Voice Coming From?” (1963). I'll point you to related material that may be of interest.   
 
@@ -56,15 +56,15 @@ This week, we'll listen to recordings of Samuel Beckett's *All That Fall: A Play
 
 ## Step 7 (Oct. 27th): Record an Analysis of Voice or Dialogue 
 
-Engage an issue raised during the first seven weeks of seminar by recording your analysis of a recorded voice or dialogue of your choice from what we've studied. This is your opportunity to treat audio as an object of inquiry in your proposed podcast.
+Engage an issue raised during the first seven weeks of seminar by recording your analysis of a recorded voice or dialogue of your choice from what we've studied. This is your opportunity to treat audio as an object of inquiry in your proposed podcast. If you've not yet sampled audio in your work, then I recommend doing so this for this exercise.  
 
-Specs for your audio file: 5-10 minutes of you analyzing audio, plus a one- or two-sentence description of the recording and a list of works mentioned in it  
+Specs for your audio file: 5-10 minutes of you analyzing audio, plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it  
 
 This week, we'll listen to recordings of Brion Gysin and William S. Burroughs's "Recalling All Active Agents" (1960), Laurie Anderson's *O Superman* (1981), Alvin Lucier's *I Am Sitting in a Room* (1969-70), Steve Reich's *Come Out* (1966), Delia Derbyshire's "Ziwzih Ziwzih OO-OO-OO" (1967), dub by King Tubby (1960s and '70s), and DJ Kool Herc's breakbeats (1970s and '80s). I'll point you to related material that may be of interest.   
 
 ## Step 8 (Nov. 3rd): Let's Bib 
 
-We'll start a collaboratively annotated bibliography that may inform your podcast episode. Please annotate two entries on the list and leave your name (in brackets) at the end of those entries. 
+We'll start collaboratively annotating a bibliography that may inform your podcast episode. Please annotate two entries on the list and leave your name (in brackets) at the end of those entries. 
 
 This week, we'll watch and listen to voice-over performances by Regina King (2005), Edward Norton (1999), Christina Ricci (1998), and Sissy Spacek (1973). I'll point you to related material that may be of interest.
 
@@ -74,9 +74,9 @@ Step away from the seminar and your podcast for a bit.
 
 ## Step 10 (Nov. 17th): Record an Analysis of a Sound Object or Soundscape 
 
-Engage an issue raised during the first ten weeks of seminar by recording your analysis of a sound object (such as an effect) or a soundscape of your choice from what we've studied. This is your opportunity to engage audio beyond semantic listening. 
+Engage an issue raised during the first ten weeks of seminar by recording your analysis of a sound object (such as an effect) or a soundscape of your choice from what we've studied. This is your opportunity to engage audio beyond semantic listening. I encourage sampling in this one, too. 
 
-Specs for your audio file: 5-10 minutes of you analyzing audio, plus a one- or two-sentence description of the recording and a list of works mentioned in it
+Specs for your audio file: 5-10 minutes of you analyzing audio, plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it
 
 This week, we'll listen to *Within the Wires* (Season One, "Relaxation Cassettes") (2016), by Jeffrey Cranor, Janina Matthewson, and Mary Epworth. I'll point you to related material that may be of interest.
 
@@ -90,10 +90,10 @@ This week, we'll watch or play either Giant Sparrow's *What Remains of Edith Fin
 
 Engage an issue raised during the seminar by recording part of your podcast's first episode. This is your opportunity to select critical approaches that work best for you and test them. You are also more than welcome to engage primary material beyond what we've studied; however, I recommend focusing on the role of audio and listening in one or two of the following formats: radio plays, talking books (or audiobooks), cut-ups, recorded readings, serialized drama (podcasts), voice-over narration, or first-person videogames.
 
-Specs for your audio file: 3-8 minutes of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode and a list of works mentioned in it 
+Specs for your audio file: 3-8 minutes (including at least one sample) of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode and a list of works mentioned or sampled in it 
 
 ## Step 13 (Dec. 15th): Record, Edit, and Polish Your First Episode 
 
 Engage an issue raised during the seminar by recording, editing, and polishing your podcast's first episode. This is your opportunity to synthesize what you've learned and put your own spin on it, with attention to primary materials of your choice.  
 
-Specs for your audio file: 12-20 minutes of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode, a transcript for it, and a list of all works mentioned in it; be sure to introduce yourself and your podcast and to include verbal acknowledgments at the end; intro music, sound effects, and ambient sounds are optional; avoid overdoing it, tho :) 
+Specs for your audio file: 12-20 minutes (including at least one sample) of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode, a transcript for it, and a list of all works mentioned or sampled in it; be sure to introduce yourself and your podcast and to include verbal acknowledgments at the end; intro music, sound effects, and ambient sounds are optional; avoid overdoing it, tho :) 
