@@ -92,7 +92,7 @@ Engage an issue raised during the seminar by recording part of your podcast's fi
 
 Specs for your audio file: 3-8 minutes of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode and a list of works mentioned in it 
 
-## Step 13 (Dec. 15th): Record, Edit, and Polish Yout First Episode 
+## Step 13 (Dec. 15th): Record, Edit, and Polish Your First Episode 
 
 Engage an issue raised during the seminar by recording, editing, and polishing your podcast's first episode. This is your opportunity to synthesize what you've learned and put your own spin on it, with attention to primary materials of your choice.  
 
