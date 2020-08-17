@@ -1,11 +1,11 @@
 # Readers Are Listening  
 
-An online graduate seminar       
-English 506 + CSPT 500/600
-Fall 2020 at the University of Victoria
-Zoom Seminar: Tuesdays, 1:30 - 2:50pm (optional)
-Zoom Office Hours: Wednesdays, 12 - 1pm (optional)    
-Taught by Jentery Sayers (jentery@uvic.ca)
+An online graduate seminar          
+English 506 + CSPT 500/600   
+Fall 2020 at the University of Victoria      
+Zoom Seminar: Tuesdays, 1:30 - 2:50pm (optional)     
+Zoom Office Hours: Wednesdays, 12 - 1pm (optional)       
+Taught by Jentery Sayers ([jentery@uvic.ca](mailto:jentery@uvic.ca))
 
 Contents: 
 
