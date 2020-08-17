@@ -12,7 +12,7 @@ Contents:
 * [Description](#description)              
 * [Aims](#aims)    
 * [About Me](#about-me)   
-* [Structure](#structure)  
+* [Structure](#structure-and-planning)  
 * [Materials](#materials) 
 * [Assignments](#assignments)     
 * [Schedule](#schedule)   
