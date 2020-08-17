@@ -1,23 +1,28 @@
-# Readers Are Listening 
+# Readers Are Listening  
 
-Jentery Sayers   
-English 506 + Cultural, Social, and Political Thought 500/600  
-Fall 2020    
-University of Victoria   
-Online Seminar
+An online graduate seminar       
+English 506 + CSPT 500/600
+Fall 2020 at the University of Victoria
+Zoom Seminar: Tuesdays, 1:30 - 2:50pm (optional)
+Zoom Office Hours: Wednesdays, 12 - 1pm (optional)    
+Taught by Jentery Sayers (jentery@uvic.ca)
 
-## Description of the Seminar
+Contents: 
 
-“Readers are listening.” We'll treat that sentence, including its many implications, as a refrain for this seminar. 
+* [Description](#description)              
+* [Aims](#aims)    
+* [Background](#background)   
+* [Structure](#structure)  
+* [Materials](#materials) 
+* [Assignments](#assignments)     
+* [Schedule](#schedule)   
+* [Policies](#policies) 
+* [Acknowledgements](#acknowledgements)   
 
-Readers are listening because, as a [2018 BookNet Canada report](https://www.booknetcanada.ca/readers-are-listening) suggests, more and more of them are purchasing audiobooks and subscribing to podcasts. Readers are listening because publishers, writers, actors, and critics are taking sound more seriously. Readers are listening because they’ve been diagnosed with print disabilities or visual impairments. They are listening because they are multitasking—listening while commuting, working at home, or engaging in hobbies. Readers are listening because they enjoy it, they need a break from screens, or they’re playing games. The list goes on, all to demonstrate that the combination of reading and listening, or the characterization of listening *as* reading, is not a contradiction. Listening is not “cheating,” or passive, or homogeneous, and it’s long been central to the interpretation of fiction. This seminar explores how and why by treating listening as a critical practice.
+# Description 
 
-You’ll have the opportunity to test various approaches to listening by studying fiction (mostly Anglo-American) from the 20th and 21st centuries. To invite an array of expertise on the topic, I’ve selected a range of works that not only engage themes of sound and listening (as content) but also experiment with audio formats, such as radio plays, talking books, cut-ups, recorded readings, serialized drama, voice-over narration, and first-person videogames, where listeners cannot see the “source” of a sound. Each week, we’ll examine a work or two with a particular theme or technique in mind. Themes will include listening to writers read, listening to narrators speak, listening for meaning, listening for effects, listening with others, listening in place, listening against the grain, listening inside acoustic spheres, and listening with machines. Across them, we’ll consider the aesthetics and sensory politics of how readers listen to fiction and how fiction is composed to be heard. I’ll also encourage you to try writing for readers who are listening by asking you to develop a portfolio of audio work comprised of four short pieces that culminate in an audio essay or podcast episode about a seminar topic of your choice. (You can use a mobile phone or computer to record, and free audio software to edit. If you do not have access to these technologies, then the portfolio and essay can be written without producing or editing audio.)  
+"Readers are listening." We'll treat that sentence, including its many implications, as a refrain for this seminar.
 
-**Please note**: This is not a seminar about music, and it is not a technical course. I will not assume any experience with audio or sound studies, and we will focus on the design, content, and culture of audio (not how it is engineered). I will, however, instruct you in the use of audio editing software (Audacity) if you’re new to it.  
+Readers are listening because, as a [2018 BookNet Canada report](https://www.booknetcanada.ca/readers-are-listening) suggests, more and more of them are purchasing audiobooks and subscribing to podcasts. Readers are listening because publishers, writers, actors, and critics are taking sound more seriously. Readers are listening because they've been diagnosed with print disabilities or visual impairments. They are listening because they are multitasking—listening while commuting, working at home, or engaging in hobbies. Readers are listening because they enjoy it, they need a break from screens, or they're playing games. The list goes on, all to demonstrate that the combination of reading and listening, or the characterization of listening as reading, is not a contradiction. Listening is not "cheating," or passive, or homogeneous, and it's long been central to the interpretation of fiction. This seminar explores how and why by treating listening as a critical practice.
 
-**Tentative texts**: Toni Morrison’s novel and audiobook, *The Bluest Eye* (1970); recordings of Edwidge Danticat reading (2013) Jamaica Kincaid’s "Girl" (1978) and "Wingless" (1979) and Joyce Carol Oates reading (2009) Eudora Welty’s "Where Is the Voice Coming From?" (1963); the radio plays, *All That Fall: A Play for Radio* (1956-7), by Samuel Beckett, and *Sorry, Wrong Number* (1943), by Lucille Fletcher; audio cut-ups, such as "Recalling All Active Agents" (1960), by Brion Gysin and William S. Burroughs; sound art such as Laurie Anderson’s *O Superman* (1981), Alvin Lucier’s *I Am Sitting in a Room* (1969-70), and Steve Reich’s *Come Out* (1966); the serialized audio drama, *Within the Wires* (Season One, "Relaxation Cassettes") (2016), by Jeffrey Cranor, Janina Matthewson, and Mary Epworth; voice-over narration performances by Regina King (2005), Edward Norton (1999), Christina Ricci (1998), and Sissy Spacek (1973); a first-person game such as *What Remains of Edith Finch* (2017), by Giant Sparrow, or *Return of the Obra Dinn* (2018), by Lucas Pope; literary sound projects like SpokenWeb and PennSound as well as storytelling "sandboxes" such as Erik Loyer’s *Stepworks*; and a podcast (preferably academic or scholarly) of your choice.  
-
-To introduce you to literary and cultural approaches to sound and listening, I’ll also compile a course pack of essays, notes, and a glossary drawn from the work of Lawrence Abu Hamdan, Roland Barthes, Jody Berland, Daphne Brooks, Michael Bull, John Cage, Jason Camlot, Anne Margaret Castro, Adriana Cavarero, David Cecchetto, Steph Ceraso, Michel Chion, Tanya Clement, Susan Douglas, Nina Sun Eidsheim, Ralph Ellison, Brian Eno, Kodwo Eshun, Frantz Fanon, Julie Funk, Sumanth Gopinath, Lisa Gitelman, Iben Have, Michelle Hilmes, Douglas Kahn, Brian Kane, Anahid Kassabian, Eric A. Havelock, Kool Herc, Holly Herndon, Sarah Kozloff, James Lastra, Hugh Le Caine, Francisco López, Hannah McGregor, Paul D. Miller (DJ Shadow), Mara Mills, Fred Moten, Pauline Oliveros, Walter Ong, John Durham Peters, Richard Cullen Rath, Dylan Robinson, Tara Rodgers, Tricia Rose, Matthew Rubery, Murray Schafer, Pierre Schaeffer, Karis Shearer, Kaja Silverman, Jonathan Sterne, Jennifer Lynn Stoever, Juan A. Suárez, Emily Thompson, Alexander Weheliye, Anna Williams, Virginia Woolf, Iannis Xenakis, and Pamela Z.
-
-**Tentative assignments**: a portfolio of audio work (30% x 2), culminating in an audio essay or podcast episode with a description and script / transcript (40%); if you do not have access to audio technologies, then all of these assignments can be written without producing or editing audio. 
+You'll have the opportunity to test various approaches to listening by studying fiction (mostly Anglo-American) from the 20th and 21st centuries. To invite an array of expertise on the topic, I've selected a range of works that not only engage themes of sound and listening (as content) but also experiment with audio formats, such as radio plays, talking books, cut-ups, recorded readings, serialized drama, voice-over narration, and first-person videogames, where listeners cannot see the "source" of a sound. Each week, we'll examine a work or two with a particular theme or technique in mind. Themes will include listening to writers read, listening to narrators speak, listening for meaning, listening for effects, listening with others, listening in place, listening against the grain, listening spheres, and listening with machines. Across them, we'll consider the aesthetics and sensory politics of how readers listen to fiction and how fiction is composed to be heard. I'll also encourage you to try writing for readers who are listening by asking you to develop a portfolio of audio work comprised of brief exercises that culminate in an episode for a podcast of your design about a seminar topic of your choice.
