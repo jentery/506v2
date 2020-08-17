@@ -11,7 +11,7 @@ Contents:
 
 * [Description](#description)              
 * [Aims](#aims)    
-* [Background](#background)   
+* [About Me](#about-me)   
 * [Structure](#structure)  
 * [Materials](#materials) 
 * [Assignments](#assignments)     
@@ -38,3 +38,7 @@ This seminar contributes to your graduate education in English and/or Cultural, 
 * Participate regularly (with your peers and me) in online seminar discussions about assigned topics and materials, including fiction made for audio as well as critical theories of listening, sound, deafness, and power. Here, my aim is to create an online space for you to practice sparking and sustaining critical conversations about media and fiction. 
 
 I hope this approach to the online seminar offers you room to experiment with your own take on the theme of "Readers Are Listening," and to build upon your own interests and experiences. If you find that it does not, then please let me or the graduate adviser know, and I'll adjust my pedagogy accordingly.
+
+# About Me 
+
+My name is Jentery Sayers (he / him / his). I’m a settler scholar and associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011. I did my MA and PhD in English at the University of Washington, and I grew up in Richmond, Virginia, where I also got my BA and BS (at Virginia Commonwealth University). Most of my work is in comparative media studies, including sound studies. I teach American fiction, media and cultural studies, prototyping, and materialism at UVic. This is the tenth graduate seminar I've taught at the university, but my first online. I'll be learning quite a bit as we go. Thanks for your patience, and apologies in advance for any hiccups on my end. 
