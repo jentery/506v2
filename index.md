@@ -43,7 +43,7 @@ I hope this approach to the online seminar offers you room to experiment with yo
 
 My name is Jentery Sayers (he / him / his). I’m a settler scholar and associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011. I did my MA and PhD in English at the University of Washington, and I grew up in Richmond, Virginia, where I also got my BA and BS (at Virginia Commonwealth University). Most of my work is in comparative media studies, including sound studies. I teach American fiction, media and cultural studies, prototyping, and materialism at UVic. This is the tenth graduate seminar I've taught at the university, but my first online. I'll be learning quite a bit as we go. Thanks for your patience, and apologies in advance for any hiccups on my end. 
 
-# Structure and Planning 
+# Structure and Assignments
 
 I've structured this online seminar around **three assignments, all of which can be performed asynchronously**: an audio portfolio (marked twice, as Portfolio 1 and 2, each 25% of your mark), participation in online discussion forums (marked twice, as Discussion 1 and 2, each 10% of your mark), and a final project: an episode for a podcast of your design (30% of your mark). The portfolio and forums will help you to gradually develop your final project, and I've integrated them into the seminar as tasks or activities to be performed each week. To clarify expectations and also render transparent my approach to assessment, I will provide rubrics for all three assignments.
 
