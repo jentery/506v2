@@ -60,3 +60,41 @@ I suggest dedicating 5 to 6 hours of study each week to this seminar, plus 1.5 h
 Of course, 5 to 6 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved. 
 
 Please also note that we'll start the seminar (the first third) with introductory materials and a bulk of our reading and listening. Most of the last third (November and early December) will be dedicated to preparing your final projects (again, an episode in a podcast of your design). The middle third is like a bridge, where you'll have a chance to experiment and refine your ideas. We'll adjust along the way to ensure none of this is too much for you (or me). 
+
+# Materials 
+
+The only thing you should purchase (or rent) for this seminar is Toni Morrison's *The Bluest Eye* as an audiobook, where she is the reader and voice actress. You may want to grab a print copy, too. The remaining materials are available openly online, via UVic Libraries, or in the seminar Brightspace. I hope this approach keeps costs down for you. 
+
+Here's a list of the primary materials I've assigned. They are intended to help us cover a range of audio and fiction, across formats, while grounding our research in questions of critical listening and its relation to reading. 
+
+* Audiobook: Toni Morrison’s *The Bluest Eye* (1970)
+* Recorded reading: Edwidge Danticat reading (2013) Jamaica Kincaid’s "Girl" (1978) and "Wingless" (1979)
+* Radio play: Samuel Beckett's *All That Fall: A Play for Radio* (1957)
+* Sound art: Delia Derbyshire's "Ziwzih Ziwzih OO-OO-OO" (1967), Alvin Lucier's *I Am Sitting in a Room* (1969-70),  King Tubby and The Aggrovators, "Dub Fi Gwan" (1977), and Laurie Anderson's *O Superman* (1981) 
+* Serialized audio drama: *Within the Wires* (Season One, “Relaxation Cassettes”) (2016), by Jeffrey Cranor, Janina Matthewson, and Mary Epworth
+* Voice-over narration: performances by Regina King (2005), Edward Norton (1999), Christina Ricci (1998), and Sissy Spacek (1973)
+* First-person games: Giant Sparrow's *What Remains of Edith Finch* (2017) and Lucas Pope's *Return of the Obra Dinn* (2018)
+
+For your reference, I've also compiled a series of brief, critical introductions to listening and related issues. These introductions are written mostly from a sound studies angle, and you will find them in Brightspace or via UVic Libraries.  
+
+* "Listening," by Roland Barthes (15 pages) 
+* "Contradicting Media: Toward a Political Phenomenology of Listening," by Jody Berland (4 pages)
+* "Into Sound," by Michael Bull and Les Back (16 pages)
+* "The Three Listening Modes," by Michel Chion (9 pages)
+* "Operating System for the Redesign of Sonic Reality," by Kodwo Eshun (15 pages)
+* "Listening through History," by Douglas Kahn (19 pages)
+* "Sound," by Michele Hilmes (2 pages)
+* "Profound Listening and Environmental Sound Matter," by Francisco López (6 pages)
+* "Deafness," by Mara Mills (8 pages)
+* "Some Sound Observations," by Pauline Oliveros (5 pages)
+* "Listening," by Tom Rice (8 pages)
+* "Hungry Listening," by Dylan Robinson (36 pages)
+* "Approaching Sound," by Tara Rodgers (8 pages)
+* "Sonic Imaginations," by Jonathan Sterne (12 pages)
+* "Hearing," by Jonathan Sterne (8 pages)
+
+We will also use two discussion forums (as part of your marks for Discussion 1 and 2) to collaboratively build an annotated bibliography, which I'm populating for you with publications by several of the above scholars as well as work by Lawrence Abu Hamdan, Daphne Brooks, John Cage, Jason Camlot, Anne Margaret Castro, Adriana Cavarero, David Cecchetto, Steph Ceraso, Tanya Clement, Angela Davis, Susan Douglas, Nina Sun Eidsheim, Ralph Ellison, Brian Eno, Frantz Fanon, Julie Funk, Sumanth Gopinath, Lisa Gitelman, Iben Have, Brian Kane, Anahid Kassabian, Sarah Kozloff, James Lastra, Hannah McGregor, Paul D. Miller (DJ Shadow), Cat Moses, Fred Moten, John Durham Peters, Richard Cullen Rath, Tara Rodgers, Tricia Rose, Matthew Rubery, Murray Schafer, Pierre Schaeffer, Karis Shearer, Kaja Silverman, Robin Small‐McCarthy, Jennifer Lynn Stoever, Birgitte Stougaard Pedersen, Juan A. Suárez, Emily Thompson, David Toop, Olga Touloumi, Alexander Weheliye, Anna Williams, Virginia Woolf, Iannis Xenakis, and Pamela Z. I will ask each of you to only annotate four entries in the bib. 
+
+Finally, I recommend the website, *Sounding Out!*, edited by Jennifer Lynn Stoever, as well as podcasts such as *SpokenWeb* and *Phantom Power*. They are excellent resources for keeping up with audio and fiction as well as sound studies. 
+
+As for audio technologies that may be useful in this seminar, I recommend Audacity and some headphones or earbuds. You may want a microphone as well. For more on gear, see [this post](https://superbon.net/2020/08/13/recording-your-lectures-3-gear-gear-gear/) by Jonathan Sterne or email me. I'm happy to talk more about the tech I use for audio work. 
