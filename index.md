@@ -51,3 +51,13 @@ I've structured this online seminar around **three assignments, all of which can
 If you are interested and able to participate in a synchronous seminar, then we'll meet on Zoom every Tuesday, from 1:30 until 2:50pm Pacific. Please note that **Zoom meetings are optional**. I'll email you the URL for our Zoom, and it'll remain the same for the entire term. The meetings will usually begin with brief, prerecorded remarks from me on the assigned materials and issues we've been discussing in Brightspace. I'll post these remarks to Brightspace each week in case you're unable to attend the Zoom meetings or you'd like to refer to my remarks later. The remarks will be available in audio and text formats. 
 
 The balance of the course, including the discussion forums, audio portfolio, and final project, will happen in the seminar Brightspace, which you should be able to access via your UVic account. If you cannot access the seminar Brightspace, then please let me know. You'll use Brightspace to submit your assignments, and we will all use it to engage in conversations and provide feedback on work in progress. I'll also use it to return marks, post announcements, and point to you resources here and there.  
+
+# Workload
+
+The most important thing to know about this seminar is that **I'll opt for care in every instance.** If the workload becomes too much, or we're juggling more than we should, then we'll cut materials, including assignments, as we go. I've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.  
+
+I suggest dedicating 5 to 6 hours of study each week to this seminar, plus 1.5 hours for the weekly Zoom meeting if you're able to attend it. To frame expectations and decrease overwork, I assign in the schedule (below) a number of recommended hours to each aspect of the seminar, and I communicate progress in terms of weekly steps (0-13) toward your final project, partially because online envrionments make time time weird for us all, and focusing can be a struggle right now, to say the least. 
+
+Of course, 5 to 6 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved. 
+
+Please also note that we'll start the seminar (the first third) with introductory materials and a bulk of our reading and listening. Most of the last third (November and early December) will be dedicated to preparing your final projects (again, an episode in a podcast of your design). The middle third is like a bridge, where you'll have a chance to experiment and refine your ideas. 
