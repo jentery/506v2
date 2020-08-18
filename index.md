@@ -114,33 +114,23 @@ Before our first Zoom meeting on September 15th, please take a moment to scan th
 This week's step should consume no more than an hour of your time. Please:
 
 1. Introduce yourself in the forum and take 5 to 10 minutes to respond to others. 
-
 2. Dedicate 15 minutes to completing the technology survey. It contains only four questions. 
-
-Much appreciated. 
 
 ## Step 2 (Sept. 22): Pick a Podcast and Press Record
 
 This week's step should consume no more than 6 hours of your time. Please:
 
 1. Pick a podcast (such as SpokenWeb, Phantom Power, or Sounding Out!) to follow for the next ten weeks. Take about an hour to listen to an episode or two. 
-
 2. Spend about an hour experimenting with Audacity, including installation. Try recording, importing, and editing. If you'd rather not use Audacity, then just determine which app you'll use for recording and editing audio this term. 
-
 3. Dedicate about 3 hours to reading the attached collection of brief introductions to listening. They represent a range of approaches across sound studies. Authors include Roland Barthes, Jody Berland, Michael Bull and Les Back, Michel Chion, Kodwo Eshun, Douglas Kahn, Michele Hilmes, Francisco López, Mara Mills, Pauline Oliveros, Tom Rice, Dylan Robinson, Tara Rodgers, and Jonathan Sterne. Worry less about reading all of them and more about identifying two or three that especially stick with you. 
-
 4. Spend 30 minutes to an hour contributing to the "Ways of Listening" discussion forum. 
-
-Thanks, everyone! 
 
 ## Step 3 (Sept. 29): Record Your First Take
 
 This week's step should consume no more than 6 hours of your time. Please: 
 
 1. Listen to the first 3.5 to 4 hours of Toni Morrison reading her book, *The Bluest Eye* (totalling about 7 hours). You may want to consult a print or ebook copy as you go and take notes as you listen. Consider sound as media (the audiobook format as well as the experience and timing of listening), theme (music and voice in the novel), content (Morrison's voice but also references to sound in the novel), and representation (Morrison reading her own work to / for you).  
-
 2. Contribute to the "Audiobook" discussion forum for about 30 minutes to an hour, leaving your own remarks but also commenting on points raised by others. 
-
 3. Take about an hour to engage an issue raised during the first three weeks of seminar by recording yourself talking about it. This is an opportunity for you to experiment with your voice(s) as a medium and to determine how (or to what degree) you want to rely on a script when recording. Submit the audio file and its description to the "Record Your First Take" discussion forum and feel free to leave constructive and affirmative comments on other people's work. We're all learning here. 
 
 *Specs for the audio file* (MP3 may be best): 5-8 minutes of you talking, plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it
@@ -152,9 +142,7 @@ Struggling with audio? In mid-September, I hold a separate Zoom session on work
 This week's step should consume no more than 6 hours of your time. Please: 
 
 1. Finish listening to The Bluest Eye (totalling about 7 hours). Don't forget to take notes as you go. You should have 3 to 3.5 hours left of the book. 
-
 2. Contribute once more to the "Audiobooks" discussion forum. Take 30 minutes to an hour. Don't forget to bring that positive force :) 
-
 3. Take about an hour to 90 minutes to draft a description (250 words) of a podcast you might produce based on material from this seminar, including your recording from last week. You might want to scan the entire seminar schedule (steps 0 - 13) to see if there’s something on the docket that may especially appeal to your own research: audiobooks, recording readings, radio plays, podcasts, voice-over narration, or games, for instance. Your podcast description should include a title, theme, interests, topic(s) you’ll address, your intended audience, and, if you wish, a few words about your style or approach. You might also want to compare it with other podcasts, especially similar ones. Just get ideas circulating for now. Don't worry much about the particulars. You'll continue to revise this description and your framework for the podcast throughout the term. I'm just asking to start now rather than later with the rough stuff. That way, you can get feedback from us as you develop your ideas and audio style. 
 
 ## Step 5 (Oct. 13): Record Some Dialogue
@@ -162,11 +150,8 @@ This week's step should consume no more than 6 hours of your time. Please: 
 This week's step should consume no more than 5 hours of your time. Please: 
 
 1. Spend between an hour and 90 minutes listening to Edwidge Danticat (2013) read Jamaica Kincaid’s "Girl" (1978) and "Wingless" (1979) (totalling 37 minutes). Listen at least twice, if you can, and take notes as you go. I'll provide PDF copies of the short stories for your reference. 
-
 2. Dedicate between 30 minutes and an hour contributing to the "Recorded Readings" forum. Have some conversations there. 
-
 3. Take 30 minutes to an hour to listen to that podcast you selected back in September. 
-
 4. Take another hour or 2 to engage an issue raised during the first five weeks of seminar by recording dialogue (or banter) with someone else in the seminar. This should be an opportunity to integrate conversations and other perspectives into work toward your final project (a podcast episode), which, if you wish, may ultimately include you in conversation with someone else. This recorded dialogue will count “double”: as your recording for the week and theirs. You need to submit only one audio file per pair, and you can submit it to the "Record Some Dialogue" forum. You'll have a chance to revise / edit it down the line.  
 
 *Specs for your audio file* (MP3 may be best): 10-15 minutes of you talking with someone else, plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it
@@ -176,21 +161,15 @@ This week's step should consume no more than 5 hours of your time. Please: 
 This week's step should consume no more than 4 hours of your time. Please: 
 
 1. Listen to a recording of Samuel Beckett’s *All That Fall: A Play for Radio* (1957), totalling about 70 minutes. Take notes while listening. You may want to refer to the print copy as you go. 
-
 2. Spend 30 minutes to an hour contributing to the "Radio Plays" discussion forum.
-
 3. Now that some time has passed, spend an hour or 2 revising the description for your proposed podcast and edit your first two recordings where / if necessary. Submit all three (description, your first take, and your recorded dialogue) for assessment. 
-
-Thank you! 
 
 ## Step 7 (Oct. 27):  Record an Analysis of Voice or Dialogue
 
 This week's step should consume no more than 4 hours of your time. Please: 
 
 1. Dedicate about 30 minutes to a few sound art and music recordings: Alvin Lucier's "I Am Sitting in a Room," (15:23, 1969), Delia Derbyshire's "Ziwzih Ziwzih OO-OO-OO" (1:45, 1967), King Tubby and The Aggrovators' "Dub Fi Gwan" (3:59, 1977), and Laurie Anderson's "O Superman" (8:27, 1982). I'll provide some context for these recordings during our October 27th Zoom meeting and also play some related sound art pieces for the group.  
-
 2. Take 30 minutes to an hour to contribute to the "Sound Art" discussion forum. 
-
 3. Spend about 2 hours engaging an issue raised during the first seven weeks of seminar by recording your analysis of a recorded voice or dialogue of your choice from what we've studied. This is your opportunity to treat audio as an object of inquiry (something you might want to try in your final project, too). If you've not yet sampled audio in your work, then I recommend doing so for this exercise. Upload your recording to the "Record an Analysis of Voice or Dialogue" forum and consider commenting on work submitted by others. 
 
 *Specs for your audio file* (MP3 may be best): 5-10 minutes of you analyzing audio, plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it
@@ -200,9 +179,7 @@ This week's step should consume no more than 4 hours of your time. Please: 
 This week's step should consume no more than 4 hours of your time. Please: 
 
 1. Note that we'll start collaboratively annotating a bibliography that should inform your final project (the podcast episode). Spend 2 to 3 hours reading material and providing annotations for two of the bib's entries. (You'll do two this week and then two more on for Nov. 24; see step 11). Leave your name (in brackets) at the end of all entries you annotate. You may want to add your name next to four entries early in the process to avoid duplication (multiple annotations for the same entry) and then return to the document later to add your annotations. I'll populate the bib for you; you just need to do the annotations. (You'll be able to add entries, too, if you'd rather.) If you have trouble finding a copy of a particular item on the bib, then email me for help. 
-
 2. Recall that podcast you selected back in September? Consider spending an hour listening to an episode or two of it. Perhaps it'll provide more inspiration for your podcast and final project. 
-
 3. During our Zoom meeting on November 3rd, we'll talk about voice-over narration in movies. You don't need to prep for that session unless you wish. I'm pointing you to two introductory videos in case you're curious about it. 
 
 ## Step 9 (Nov. 10): Take a Break
@@ -214,9 +191,7 @@ Step away from the seminar, the discussion forums, and your audio portfolio for 
 This week's step should consume no more than 5 hours of your time. Please:
 
 1. Take about 90 minutes to listen to the first four episodes of *Within the Wires* (Season One, "Relaxation Cassettes") (2016), by Jeffrey Cranor, Janina Matthewson, and Mary Epworth. You're also welcome to listen to the entire season, if you've got the time.  
-
 2. Take 30 minutes to an hour to contribute to the "Voice-Over and Pod Drama" discussion forum. There you'll have an opportunity to talk about either voice-over in movies or *Within the Wires*.  
-
 3. Spend about 2 hours engaging an issue raised during the first ten weeks of seminar by recording your analysis of a sound object (such as an effect) or a soundscape of your choice from what we've studied. This is your opportunity to engage audio beyond semantic listening. I encourage sampling in this one, too. Submit it to the "Record an Analysis of a Sound Object or Soundscape" forum.  
 
 *Specs for your audio file* (MP3 may be best): 5-10 minutes of you analyzing audio (a sound object or soundscape), plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it 
@@ -226,9 +201,7 @@ This week's step should consume no more than 5 hours of your time. Please:
 This week's step should consume no more than 6 hours of your time. Please:
 
 1. Take an hour to review your recorded analysis of both voice / dialogue and sound object / soundscape and revise and edit them where / if necessary.
-
 2. Dedicate roughly 2 hours to annotating two more entries in our collaborative bib. Please leave your name in brackets after your annotations.
-
 3. Spend 2 to 3 hours watching or playing either Giant Sparrow's *What Remains of Edith Finch* (2017) or Lucas Pope's *Return of the Obra Dinn* (2018). Take notes on the sound design as you go. If you're watching rather than playing, then consider no-commentary gameplay. I've created a discussion forum for sound in games; however, it's not required. (We may just use it to share notes during this week's Zoom meeting, when we'll talk more about audio and fiction in games.) 
 
 ## Step 12 (Dec. 1): Record Part of Your Episode and Describe It
@@ -236,12 +209,10 @@ This week's step should consume no more than 6 hours of your time. Please:
 This week's step should consume no more than 6 hours of your time. Please: 
 
 1. Spend about 4 to 5 hours engaging an issue raised during the seminar by recording part of an episode for the podcast you've been cooking up all term. This is your opportunity to start your final project, get feedback on it, and select and test critical approaches, including material from our collaborative bib, that work best for you. You are also more than welcome to engage primary material beyond what we've studied; however, I recommend focusing on the role of audio and listening in one or two of the following formats: radio plays, talking books (or audiobooks), cut-ups, recorded readings, serialized drama (podcasts), voice-over narration, or first-person videogames. You may also want to determine which of the following you want to include in your episode: dialogue, soundscape, sound object, and sound effects. Maybe all of them? (Of note, I am asking you to include at least one sample in the final project. See step 13. Now may be a good time to identify that sample.) Please submit your draft material to the "Record Part of Your Episode and Describe It" forum. 
+2. Take about 30 minutes to draft a description (250 words) of your episode (i.e., your final project). Consider reviewing how other podcasts describe their individual episodes and also how those descriptions correspond with similar summary genres, such as academic abstracts. Submit your episode description to the forum alongside the short draft of your episode (above). 
+3. Spend another 30 minutes revising the description of your podcast that you wrote back in October. Submit your revised podcast description to the forum alongside the short draft of your episode (above). 
 
 *Specs for your audio file* (MP3 may be best): 3-8 minutes (including at least one sample) of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode, a 250-word description of your podcast, and a list of works mentioned or sampled in the episode (re: the two descriptions, see more below) 
-
-2. Take about 30 minutes to draft a description (250 words) of your episode (i.e., your final project). Consider reviewing how other podcasts describe their individual episodes and also how those descriptions correspond with similar summary genres, such as academic abstracts. Submit your episode description to the forum alongside the short draft of your episode (above). 
-
-3. Spend another 30 minutes revising the description of your podcast that you wrote back in October. Submit your revised podcast description to the forum alongside the short draft of your episode (above). 
 
 When you're done, I'm also asking you to submit all of the above, together with your recorded analyses of voice / dialogue and a sound object / soundscape to the "Portfolio 2" assignment. Apologies for the redundancies, but the distinct submission and discussion features of Brightspace make this sort of duplication necessary. The platform doesn't allow us to simultaneously share material with each other and submit it for assessment.  
 
