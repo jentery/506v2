@@ -17,7 +17,7 @@ Contents:
 * [Materials](#materials)    
 * [Schedule](#schedule)   
 * [Policies](#policies) 
-* [Acknowledgements](#acknowledgements)   
+* [Territory Acknowledgement](#territory-acknowledgement)   
 
 # Description 
 
@@ -293,6 +293,6 @@ UVic takes student mental health very seriously, with a [website](https://www.uv
 
 The [Student Services website](https://www.uvic.ca/studentaffairs/departments/student-services/index.php) lists several policies that you might want to know about and may make your life at UVic safer and easier. Only some of them are directly related to this seminar, but they're still important.
 
-# Territory Acknowledgment 
+# Territory Acknowledgement 
 
 As a faculty member who has the privilege to live and work as a guest on these lands, I acknowledge with respect that the University of Victoria is located on the unceded territory of the Lkwungen peoples and the Songhees, Esquimalt, and <u>W̱</u>SÁNEĆ First Nations, whose historical relationships with the land continue to this day.
