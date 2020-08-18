@@ -289,7 +289,7 @@ I want you to thrive in this course and everywhere else. Please let me know as e
 
 If you need to cover gaps in care, then please don't hesitate to bring your children to Zoom meetings. Babies who are nursing are always welcome, as I do not want you to choose between feeding your child and continuing your education. 
 
-UVic takes student mental health very seriously, with a [website](https://www.uvic.ca/mentalhealth/) full of resources. We offer services such as assistance and referral to address students' personal, social, career, and study skills concerns. Services for students also include crisis and emergency mental health consultation and confidential assessment, counselling services (individual and small group), and referrals. Many of these programs are connected with Health Services, which you may contact by phone. 
+UVic takes student mental health very seriously, with a [website](https://www.uvic.ca/mentalhealth/) full of resources. They offer services such as assistance and referral to address students' personal, social, career, and study skills concerns. Services for students also include crisis and emergency mental health consultation and confidential assessment, counselling services (individual and small group), and referrals. Many of these programs are connected with Health Services, which you may contact by phone. 
 
 The [Student Services website](https://www.uvic.ca/studentaffairs/departments/student-services/index.php) lists several policies that you might want to know about and may make your life at UVic safer and easier. Only some of them are directly related to this seminar, but they're still important.
 
