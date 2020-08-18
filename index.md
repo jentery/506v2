@@ -108,7 +108,7 @@ I will use a Brightspace announcement to notify you at least two weeks in advanc
 
 ## Step 0 (Sept. 15): Scan All the Steps
 
-Before our first Zoom meeting on September 15th, please take a moment to scan the course overview and steps (0-13) outlined in this schedule. I created a discussion forum for questions and concerns. Please note that the seminar policies are provided in PDF (see the overview for a link). Thank you! 
+Before our first Zoom meeting on September 15th, please take a moment to scan the course overview and steps (0-13) outlined in this schedule. I created a discussion forum for questions and concerns. Please note that, in Brightspace, the seminar policies are provided separately in PDF. Thank you!  
 
 ## Step 1 (Sept. 15): Complete a Technology Survey
 
@@ -123,7 +123,7 @@ This week's step should consume no more than 6 hours of your time. Please:
 
 1. Pick a podcast (such as SpokenWeb, Phantom Power, or Sounding Out!) to follow for the next ten weeks. Take about an hour to listen to an episode or two. 
 2. Spend about an hour experimenting with Audacity, including installation. Try recording, importing, and editing. If you'd rather not use Audacity, then just determine which app you'll use for recording and editing audio this term. 
-3. Dedicate about 3 hours to reading the attached collection of brief introductions to listening. They represent a range of approaches across sound studies. Authors include Roland Barthes, Jody Berland, Michael Bull and Les Back, Michel Chion, Kodwo Eshun, Douglas Kahn, Michele Hilmes, Francisco López, Mara Mills, Pauline Oliveros, Tom Rice, Dylan Robinson, Tara Rodgers, and Jonathan Sterne. Worry less about reading all of them and more about identifying two or three that especially stick with you. 
+3. Dedicate about 3 hours to reading the attached collection of brief introductions to listening. They represent a range of approaches across sound studies. Authors include Roland Barthes, Jody Berland, Michael Bull and Les Back, Michel Chion, Kodwo Eshun, Douglas Kahn, Michele Hilmes, Francisco López, Mara Mills, Pauline Oliveros, Tom Rice, Dylan Robinson, Tara Rodgers, Jonathan Sterne, and Ola Stockfelt. Worry less about reading all of them and more about identifying two or three that especially stick with you. 
 4. Spend 30 minutes to an hour contributing to the "Ways of Listening" discussion forum. 
 
 ## Step 3 (Sept. 29): Record Your First Take
