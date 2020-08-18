@@ -77,12 +77,12 @@ Here's a list of the primary materials I've assigned. They are intended to help 
 
 For your reference, I've also compiled a series of brief, critical introductions to listening and related issues. These introductions are written mostly from a sound studies angle, and you will find them in Brightspace or via UVic Libraries.  
 
-* "Listening," by Roland Barthes (15 pages) 
-* "Contradicting Media: Toward a Political Phenomenology of Listening," by Jody Berland (4 pages)
+* "Listening," by Roland Barthes (16 pages) 
+* "Contradicting Media: Toward a Political Phenomenology of Listening," by Jody Berland (5 pages)
 * "Into Sound," by Michael Bull and Les Back (16 pages)
-* "The Three Listening Modes," by Michel Chion (9 pages)
-* "Operating System for the Redesign of Sonic Reality," by Kodwo Eshun (15 pages)
-* "Listening through History," by Douglas Kahn (19 pages)
+* "The Three Listening Modes," by Michel Chion (10 pages)
+* "Operating System for the Redesign of Sonic Reality," by Kodwo Eshun (3 pages)
+* "Listening through History," by Douglas Kahn (18 pages)
 * "Sound," by Michele Hilmes (2 pages)
 * "Profound Listening and Environmental Sound Matter," by Francisco López (6 pages)
 * "Deafness," by Mara Mills (8 pages)
