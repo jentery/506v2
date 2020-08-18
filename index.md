@@ -87,7 +87,7 @@ For your reference, I've also compiled a series of brief, critical introductions
 * "Profound Listening and Environmental Sound Matter," by Francisco López (6 pages)
 * "Deafness," by Mara Mills (9 pages)
 * "Some Sound Observations," by Pauline Oliveros (5 pages)
-* "Listening," by Tom Rice (8 pages)
+* "Listening," by Tom Rice (10 pages)
 * "Hungry Listening," by Dylan Robinson (36 pages)
 * "Approaching Sound," by Tara Rodgers (8 pages)
 * "Sonic Imaginations," by Jonathan Sterne (12 pages)
