@@ -85,7 +85,7 @@ For your reference, I've also compiled a series of brief, critical introductions
 * "Listening through History," by Douglas Kahn (18 pages)
 * "Sound," by Michele Hilmes (2 pages)
 * "Profound Listening and Environmental Sound Matter," by Francisco López (6 pages)
-* "Deafness," by Mara Mills (8 pages)
+* "Deafness," by Mara Mills (9 pages)
 * "Some Sound Observations," by Pauline Oliveros (5 pages)
 * "Listening," by Tom Rice (8 pages)
 * "Hungry Listening," by Dylan Robinson (36 pages)
