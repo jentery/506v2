@@ -99,6 +99,8 @@ Finally, I recommend the website, *Sounding Out!*, edited by Jennifer Lynn Stoev
 
 As for audio technologies that may be useful in this seminar, I recommend Audacity and some headphones or earbuds. You may want an external microphone as well, but that's certainly optional. For more on gear, see [this post](https://superbon.net/2020/08/13/recording-your-lectures-3-gear-gear-gear/) by Jonathan Sterne or email me. I'm happy to talk more about the tech I use for audio work. 
 
+# Schedule
+
 Here's the schedule for the term. I've designed it to scaffold the audio portfolio process by presenting the seminar as a series of 14 steps, each with instructions and assigned materials, accompanied by a number of recommended hours to spend on the tasks at hand (given, again, the "timesoup" that is online learning). The final step corresponds with the completion of your final project (an episode in a podcast of your own design) in December. 
 
 I will use a Brightspace announcement to notify you at least two weeks in advance of any changes. Please note that all discussion forums are in Brightspace, and all assignments, including the portfolio and final project, should be submitted via Brightspace. It is, alas, LMS all the way down . . . 
