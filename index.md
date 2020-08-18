@@ -213,7 +213,7 @@ This week's step should consume no more than 6 hours of your time. Please: 
 2. Take about 30 minutes to draft a description (250 words) of your episode (i.e., your final project). Consider reviewing how other podcasts describe their individual episodes and also how those descriptions correspond with similar summary genres, such as academic abstracts. Submit your episode description to the forum alongside the short draft of your episode (above).
 3. Spend another 30 minutes revising the description of your podcast that you wrote back in October. Submit your revised podcast description to the forum alongside the short draft of your episode (above). 
 
-*Specs for your audio file* (MP3 may be best): 3-8 minutes (including at least one sample) of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode, a 250-word description of your podcast, and a list of works mentioned or sampled in the episode (re: the two descriptions, see more below) 
+*Specs for your audio file* (MP3 may be best): 3-8 minutes (including at least one sample) of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode, a 250-word description of your podcast, and a list of works mentioned or sampled in the episode
 
 When you're done, I'm also asking you to submit all of the above, together with your recorded analyses of voice / dialogue and a sound object / soundscape to the "Portfolio 2" assignment. Apologies for the redundancies, but the distinct submission and discussion features of Brightspace make this sort of duplication necessary. The platform doesn't allow us to simultaneously share material with each other and submit it for assessment.  
 
