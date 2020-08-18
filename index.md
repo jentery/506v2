@@ -77,21 +77,22 @@ Here's a list of the primary materials I've assigned. They are intended to help 
 
 For your reference, I've also compiled a series of brief, critical introductions to listening and related issues. These introductions are written mostly from a sound studies angle, and you will find them in Brightspace or via UVic Libraries.  
 
-* "Listening," by Roland Barthes (16 pages) 
-* "Contradicting Media: Toward a Political Phenomenology of Listening," by Jody Berland (5 pages)
-* "Into Sound," by Michael Bull and Les Back (16 pages)
-* "The Three Listening Modes," by Michel Chion (10 pages)
-* "Operating System for the Redesign of Sonic Reality," by Kodwo Eshun (3 pages)
-* "Listening through History," by Douglas Kahn (18 pages)
-* "Sound," by Michele Hilmes (2 pages)
-* "Profound Listening and Environmental Sound Matter," by Francisco López (6 pages)
-* "Deafness," by Mara Mills (9 pages)
-* "Some Sound Observations," by Pauline Oliveros (5 pages)
-* "Listening," by Tom Rice (10 pages)
-* "Hungry Listening," by Dylan Robinson (36 pages)
-* "Approaching Sound," by Tara Rodgers (8 pages)
-* "Sonic Imaginations," by Jonathan Sterne (12 pages)
-* "Hearing," by Jonathan Sterne (8 pages)
+* "Listening," by Roland Barthes
+* "Contradicting Media: Toward a Political Phenomenology of Listening," by Jody Berland 
+* "Into Sound," by Michael Bull and Les Back
+* "The Three Listening Modes," by Michel Chion
+* "Operating System for the Redesign of Sonic Reality," by Kodwo Eshun
+* "Listening through History," by Douglas Kahn
+* "Sound," by Michele Hilmes
+* "Profound Listening and Environmental Sound Matter," by Francisco López 
+* "Deafness," by Mara Mills 
+* "Some Sound Observations," by Pauline Oliveros 
+* "Listening," by Tom Rice
+* "Hungry Listening," by Dylan Robinson
+* "Approaching Sound," by Tara Rodgers
+* "Sonic Imaginations," by Jonathan Sterne
+* "Hearing," by Jonathan Sterne
+* "Adequate Modes of Listening," by Ola Stockfelt 
 
 We will also use two discussion forums (as part of your marks for Discussion 1 and 2) to collaboratively build an annotated bibliography, which I'm populating for you with publications by several of the above scholars as well as Lawrence Abu Hamdan, Daphne Brooks, John Cage, Jason Camlot, Anne Margaret Castro, Adriana Cavarero, David Cecchetto, Steph Ceraso, Tanya Clement, Angela Davis, Susan Douglas, Nina Sun Eidsheim, Ralph Ellison, Brian Eno, Frantz Fanon, Julie Funk, Sumanth Gopinath, Lisa Gitelman, Iben Have, Brian Kane, Anahid Kassabian, Sarah Kozloff, James Lastra, Hannah McGregor, Paul D. Miller (DJ Shadow), Cat Moses, Fred Moten, John Durham Peters, Richard Cullen Rath, Tara Rodgers, Tricia Rose, Matthew Rubery, Murray Schafer, Pierre Schaeffer, Karis Shearer, Kaja Silverman, Robin Small‐McCarthy, Jennifer Lynn Stoever, Birgitte Stougaard Pedersen, Juan A. Suárez, Emily Thompson, David Toop, Olga Touloumi, Alexander Weheliye, Anna Williams, Virginia Woolf, Iannis Xenakis, and Pamela Z. I will ask each of you to annotate only four entries in the bib. 
 
