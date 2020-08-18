@@ -281,7 +281,7 @@ The University of Victoria is committed to promoting critical academic discourse
 tolerate racism, sexualized violence, or any form of discrimination, bullying or
 harassment. 
 
-Please be advised that by logging into UVic’s learning systems and interacting with online resources you are engaging in a university activity. All interactions within this environment are subject to the university expectations and policies. Any concerns about student conduct, may be reviewed and responded to in accordance with the appropriate university policy. To report concerns about online student conduct, email onlineconduct@uvic.ca. 
+Please be advised that by logging into UVic’s learning systems and interacting with online resources you are engaging in a university activity. All interactions within this environment are subject to the university expectations and policies. Any concerns about student conduct, may be reviewed and responded to in accordance with the appropriate university policy. To report concerns about online student conduct, email [onlineconduct@uvic.ca](mailto:onlineconduct@uvic.ca). 
 
 ### Basic Needs 
 
