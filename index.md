@@ -18,6 +18,7 @@ Contents:
 * [Schedule](#schedule)   
 * [Policies](#policies) 
 * [Territory Acknowledgement](#territory-acknowledgement)   
+* [View this Document in PDF](sayers506Fall2020.pdf)
 
 # Description 
 
