@@ -252,3 +252,75 @@ It's time to submit your final project for the seminar. Please:
 Spend an additional 12 to 18 hours engaging an issue raised during the seminar by recording, editing, and polishing an episode in your podcast, drawing upon material you already recorded and edited earlier in December (see step 12). This is your opportunity to synthesize what you've learned and put your own spin on it, with attention to primary materials of your choice. You should include at least one sample, and I'll provide you with feedback on your draft material (step 12) to help guide your episode to completion. Please submit the episode as a single audio file and also provide a transcript as a well as a revised copy of your podcast description (from step 12). 
 
 *Specs for your audio file* (MP3 may be best): 12-20 minutes (including at least one sample) of you critically approaching audio and fiction how you wish, plus a 250-word description of your episode, a transcript for it, and a list of all works mentioned or sampled in it; be sure to introduce yourself and your podcast and to include verbal acknowledgments at the end; intro music, sound effects, and ambient sounds are optional; avoid overdoing it, tho :)
+
+# Policies 
+
+### Prerequisites 
+
+There are no prerequisites for this seminar. It is part of the English graduate program (MA and PhD) and Cultural, Social, and Political Thought concentration (MA and PhD). It's a special topics course (English 506, Studies in Literary Theory: Special Topic).
+  
+### Assessment 
+
+The final project, plus at least one part of the audio portfolio, are required to pass this course. Failure to complete these two assignments will result in a failing N grade (calculated as a 0 for your GPA). 
+
+I will use the Faculty of Graduate Studies' [official grading system](https://www.uvic.ca/calendar/future/grad/index.php#/policy/B13jeiMdE?bc=true&bcCurrent=07%20-%20Grading&bcGroup=Faculty%20Academic%20Regulations&bcItemType=policies) to produce rubrics for each assignment and assess your work. I do not post marks publicly or outside my office, and I do not use plagiarism detection software.
+
+### Late Submissions and Extensions
+
+If you need to request an extension or you're concerned about the possibility of a late submission, then please email me. I understand that extensions may be necessary for numerous reasons, especially right now. I will comment on all assigned work I receive from you during the term, regardless of when it's submitted.   
+
+### Communications 
+
+The best way to communicate with me is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) and Zoom, either by appointment or during my office hours, which are Wednesdays, 12 - 1pm (see me for the URL). I respond to work email between 9am and 5pm, Monday through Friday, excluding holidays. 
+
+### Feedback 
+
+I will provide feedback via Brightspace on each assignment. Feedback on discussions may be bundled with feedback on other assignments, such as the audio portfolio.   
+
+Throughout the term, I'll request feedback (verbal and in writing) from you on how the seminar is going. I'll also ask you to complete Course Experience Surveys at the end of the term (during our last meeting). 
+
+### Attendance and Participation
+
+Weekly attendance in our Zoom meetings is optional. I will post on Brightspce recordings of our meetings, including my remarks. My remarks will be available in audio and text, and Zoom meetings will be available in video.
+
+Participation in discussion forums (marked twice, as Discussion 1 and 2, each 10% of your mark) is expected, but see me with any concerns you have. I'm happy to work with you depending on your situation and schedule.   
+
+### Learning Climate  
+
+The University of Victoria is committed to promoting, providing, and protecting a positive, supportive, and safe working and learning environment for all its members. You and I are expected to adhere to [UVic's equity and human rights policies](https://www.uvic.ca/equity/). You should alert me immediately if you have any questions about these policies and their application, or if you have concerns about course proceedings or participants.
+
+### Academic Integrity  
+
+You and I are expected to adhere to [UVic's academic integrity policy](https://www.uvic.ca/current-students/home/academics/academic-integrity/index.php) and be aware of the policies for the evaluation of student course work. Violations of the integrity policy will result in a failing grade for the given assignment and may additionally result in a failing grade for the course. By taking this course, you agree that all submitted assignments may be subject to an originality review. I do not use software to detect plagiarism in essays or any other assignments.
+
+### Accessibility and Accommodation 
+
+Students with diverse learning styles and needs are welcome in this course. In particular, if you have a disability or health consideration that may require accommodations, please feel free to approach me and/or the [Centre for Accessible Learning (CAL)](https://www.uvic.ca/services/cal/) as soon as possible. CAL staff are available by appointment to assess specific needs, provide referrals, and arrange appropriate accommodations. The sooner you let us know your needs, the quicker we can assist you in achieving your learning goals in this course.
+
+### Diversity and Inclusion 
+
+I would like to create a learning environment that supports a diversity of thoughts, perspectives, and experiences, and also honours your identities (including race, gender, class, sexuality, religion, and ability). Integrating a diverse set of experiences is important for a more comprehensive understanding of literature, audio, and culture. I (like many people) am still in the process of learning about diverse perspectives and identities. If something is said in class (by anyone, including me) that makes you feel uncomfortable, don't hesitate to talk with me. If you have a name and/or set of pronouns that differ from those that appear in your university records, please let me know. If you feel like your performance in the class is being impeded by your experiences outside of class, please don't hesitate to talk with me. I want to be a resource for you. You can also submit anonymous feedback, which, with your permission, I may use to make a general announcement to the seminar. If you prefer to speak with someone outside of the course, Stephen Ross (acting graduate adviser in the Department of English), is an excellent resource. Finally, please contact me or submit anonymous feedback if you have any suggestions to improve the quality of the course materials.
+
+(Language for this policy was drawn from the Harriet W. Sheridan Center for Teaching and Learning at Brown University, and from the work of Monica Linden, in particular.)
+
+### Online Conduct 
+
+The University of Victoria is committed to promoting critical academic discourse while providing a respectful and supportive learning environment. All members of the university community have the right to this experience, and the responsibility to help create, such an environment. The University will not
+tolerate racism, sexualized violence, or any form of discrimination, bullying or
+harassment. 
+
+Please be advised that by logging into UVic’s learning systems and interacting with online resources you are engaging in a university activity. All interactions within this environment are subject to the university expectations and policies. Any concerns about student conduct, may be reviewed and responded to in accordance with the appropriate university policy. To report concerns about online student conduct, email onlineconduct@uvic.ca. 
+
+### Basic Needs 
+
+I want you to thrive in this course and everywhere else. Please let me know as early as possible if you have any concerns or if you require any assistance to succeed. I’ll do my best to help.
+
+If you need to cover gaps in care, then please don't hesitate to bring your children to Zoom meetings. Babies who are nursing are always welcome, as I do not want you to choose between feeding your child and continuing your education. 
+
+UVic takes student mental health very seriously, with a [website](https://www.uvic.ca/mentalhealth/) full of resources. We offer services such as assistance and referral to address students' personal, social, career, and study skills concerns. Services for students also include crisis and emergency mental health consultation and confidential assessment, counselling services (individual and small group), and referrals. Many of these programs are connected with Health Services, which you may contact by phone. 
+
+The [Student Services website](https://www.uvic.ca/studentaffairs/departments/student-services/index.php) lists several policies that you might want to know about and may make your life at UVic safer and easier. Only some of them are directly related to this seminar, but they're still important.
+
+# Territory Acknowledgment 
+
+As a faculty member who has the privilege to live and work as a guest on these lands, I acknowledge with respect that the University of Victoria is located on the unceded territory of the Lkwungen peoples and the Songhees, Esquimalt, and <u>W̱</u>SÁNEĆ First Nations, whose historical relationships with the land continue to this day.
