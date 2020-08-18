@@ -136,13 +136,13 @@ This week's step should consume no more than 6 hours of your time. Please: 
 
 *Specs for the audio file* (MP3 may be best): 5-8 minutes of you talking, plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it
 
-Struggling with audio? In mid-September, I hold a separate Zoom session on working with Audacity and the like. 
+Struggling with audio? In mid-September, I'll hold a separate Zoom session on working with Audacity and the like. 
 
 ## Step 4 (Oct. 6th): Describe Your Podcast
 
 This week's step should consume no more than 6 hours of your time. Please: 
 
-1. Finish listening to The Bluest Eye (totalling about 7 hours). Don't forget to take notes as you go. You should have 3 to 3.5 hours left of the book. 
+1. Finish listening to *The Bluest Eye* (totalling about 7 hours). Don't forget to take notes as you go. You should have 3 to 3.5 hours left of the book. 
 2. Contribute once more to the "Audiobooks" discussion forum. Take 30 minutes to an hour. Don't forget to bring that positive force :) 
 3. Take about an hour to 90 minutes to draft a description (250 words) of a podcast you might produce based on material from this seminar, including your recording from last week. You might want to scan the entire seminar schedule (steps 0 - 13) to see if there’s something on the docket that may especially appeal to your own research: audiobooks, recording readings, radio plays, podcasts, voice-over narration, or games, for instance. Your podcast description should include a title, theme, interests, topic(s) you’ll address, your intended audience, and, if you wish, a few words about your style or approach. You might also want to compare it with other podcasts, especially similar ones. Just get ideas circulating for now. Don't worry much about the particulars. You'll continue to revise this description and your framework for the podcast throughout the term. I'm just asking to start now rather than later with the rough stuff. That way, you can get feedback from us as you develop your ideas and audio style. 
 
